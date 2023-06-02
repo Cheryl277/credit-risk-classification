@@ -1,1 +1,15 @@
-# Rusults:
+Rusults:
+Machine Learning Model 1:
+
+Balanced Accuracy Score: 95%
+Precision [0]: 100%
+Precision [1]: 86%
+Recall Score [0]: 1.0
+Recall Score [1] : 0.91
+
+Machine Learning Model 2:
+Balanced Accuracy Score: 99%
+Precision [0]: 100%
+Precision [1]: 85%
+Recall Score [0]: 0.99
+Recall Score [1]: 0.99
