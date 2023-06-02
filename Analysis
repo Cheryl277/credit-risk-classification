@@ -1,15 +1,24 @@
 Rusults:
-Machine Learning Model 1:
+1. Machine Learning Model 1:
 
-Balanced Accuracy Score: 95%
-Precision [0]: 100%
-Precision [1]: 86%
-Recall Score [0]: 1.0
-Recall Score [1] : 0.91
+-Balanced Accuracy Score: 95%
+-Precision [0]: 100%
+-Precision [1]: 86%
+-Recall Score [0]: 1.0
+-Recall Score [1] : 0.91
 
-Machine Learning Model 2:
-Balanced Accuracy Score: 99%
-Precision [0]: 100%
-Precision [1]: 85%
-Recall Score [0]: 0.99
-Recall Score [1]: 0.99
+2. Machine Learning Model 2:
+-Balanced Accuracy Score: 99%
+-Precision [0]: 100%
+-Precision [1]: 85%
+-Recall Score [0]: 0.99
+-Recall Score [1]: 0.99
+
+Conclusion:
+In conclusion, I would recommend the second machine learning model 
+because of the increased balanced accuracy score in comparsion with
+the second machine learning model. While both works fine, the second 
+one has a better precision/accuracy, in addition to the high recall scores.
+When looking at credit risk, the company is especially worried about 
+incorrect outcomes, it is important to identify the consumers.
+
